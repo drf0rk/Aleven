@@ -1,0 +1,4 @@
+app_name: stable-diffusion
+compute:
+  gpu_type: T4
+  gpu_count: 1
